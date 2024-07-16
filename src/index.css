@@ -1,0 +1,14 @@
+:root {
+  /* color */
+  --color-1: #FDC435;
+  --color-2: #323433;
+  --color-3: #FFFFFF;
+  --color-4: #828282;
+
+  --font-family-text:    'Inter', sans-serif;
+
+}
+
+*{
+  font-family: var(--font-family-text) ;
+}
