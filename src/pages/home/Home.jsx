@@ -22,12 +22,6 @@ const Home = () => {
             <div className='img-containner' >
                 <img src='imgs/pp.png' />
             </div>
-            {/* <div className='c1' ></div>
-            <div className='c2' ></div>
-            <div className='c3' ></div> */}
-        
-            
-
         </div>
         
     </div>

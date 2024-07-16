@@ -30,10 +30,10 @@
 
 .home .p1 .text-cnt .btn-cnt .btn{
     border-radius: 1rem;
-    color: var(--color-1);
-    border: solid 2px var(--color-1);
-    /* height: 7vh; */
-    /* width: 10vw; */
+    color: var(--color-2);
+    border: solid 2px var(--color-2);
+    /* height: 17vh;
+    width: 10vw; */
     align-items: center;
     text-align: center;
     padding: 1rem;
@@ -43,17 +43,17 @@
 .home .p1 .text-cnt .btn-cnt .btn-pr{
     border-radius: 1rem;
     background-color:  var(--color-1);
-    color: var(--color-3);
-    /* height: 7vh; */
-    /* width: 10vw; */
+    color: var(--color-2);
     align-items: center;
     text-align: center;
     padding: 1rem;
     margin-right: 1rem;
+    
 }
 
 .home .p1 .text-cnt p{
     margin-bottom: 3rem;
+    color: var(--color-4);
 }
 
 
@@ -61,38 +61,9 @@
 .home .p2 {
     /* background-color: blue; */
     width: 50%;
-    
-
-}
-
-.home .p2 .border{
-    width: 25rem;
-    height: 25rem;
-    border: solid var(--color-2) 5px;
-    box-sizing: border-box;
-    position: absolute;
-    z-index: 2;
-    margin: 7rem -1rem;
-}
-
-.home .p2 .color-cnt{
-    width: 25rem;
-    height: 25rem;
-    background-color: var(--color-1);
-    box-sizing: border-box;
-    position: absolute;
-    z-index: 1;
-    margin: 1rem 6rem;
-}
-.home .p2 .img-cnt{
-    width: 25rem;
-    height: 25rem;
-    box-sizing: border-box;
-    margin: 1rem 6rem;
-    /* background-color: aquamarine; */
-    z-index: 3;
-    position: absolute;
     overflow: hidden;
+    background-image: url(imgs/bg.png);
+    
 
 }
 
@@ -106,7 +77,7 @@
 .img-containner{
     height: 100%;
     width: 100%;
-    background-color: aqua;
+    /* background-color: aqua; */
     /* bac */
     /* border-bottom-right-radius: 20rem;
     border-top-left-radius: 20rem; */
@@ -116,12 +87,10 @@
 .img-containner img{
     padding: 10rem;
 
-    width: 100%;
-    /* height: 100%; */
+    /* width: 100%; */
+    margin: -3rem 0;
+    width: 35rem;
 
-}
-p{
-    color: var(--color-4);
 }
 
 
