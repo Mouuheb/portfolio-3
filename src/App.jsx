@@ -5,6 +5,7 @@ import Home from './pages/home/Home'
 import Project from './pages/project/Project'
 import About from './pages/about/About'
 import Contact from './pages/contact/Contact'
+import Footer from './pages/footer/Footer'
 
 function App() {
 
@@ -15,6 +16,7 @@ function App() {
     <Project/>
     <About/>
     <Contact/>
+    <Footer/>
     </>
   )
 }

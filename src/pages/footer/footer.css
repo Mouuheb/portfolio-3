@@ -1,0 +1,8 @@
+.footer{
+    background-image: url(imgs/Vector.png);
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat;
+    height: 35vh;
+    width: 100%;
+}

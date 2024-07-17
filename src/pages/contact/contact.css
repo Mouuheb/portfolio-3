@@ -25,6 +25,17 @@ textarea{
 }
 
 .social-icon{
-    display: flex;
+    margin-top: 2rem;
+    /* padding: 2rem; */
+    /* display: flex;
     flex-direction: row;
+    text-align: center; */
+
+}
+
+.social-icon .icon{
+    border-radius: 1rem;
+    width: 2.5rem;
+    height: 2.5rem;
+    margin: .4rem;
 }

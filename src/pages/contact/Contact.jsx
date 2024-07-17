@@ -1,5 +1,6 @@
 import React from 'react'
 import './contact.css'
+import { GrInstagram, GrLinkedin, GrMail } from "react-icons/gr";
 
 const Contact = () => {
   return (
@@ -19,7 +20,10 @@ const Contact = () => {
 
         <a className='btn-pr'>send</a>
         <div className='social-icon' >
-            <a></a>
+            <a><GrInstagram className='icon'/></a>
+            <a><GrLinkedin className='icon' /></a>
+            <a><GrMail className='icon' /></a>
+
         </div>
 
     </div>
