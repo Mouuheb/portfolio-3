@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&display=swap');
+
 :root {
   /* color */
   --color-1: #FDC435;
@@ -6,7 +8,7 @@
   --color-4: #c6c6c6;
   --color-5: #f0f0f0;
 
-  --font-family-text:    'Inter', sans-serif;
+  --font-family-text:    "Edu AU VIC WA NT Hand", cursive;
 
 }
 body{

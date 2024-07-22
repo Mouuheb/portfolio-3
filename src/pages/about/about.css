@@ -3,6 +3,8 @@
     align-items: center;
 }
 
+
+
 .about{
     width: 80%;
     height: 35rem;
@@ -58,4 +60,9 @@
     padding: 1rem;
     margin-right: 1rem;
     
+}
+
+.about-cmp .img-containner{
+    width: 45%;
+    /* background-color: aqua; */
 }
