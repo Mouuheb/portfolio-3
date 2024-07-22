@@ -1,12 +1,12 @@
 .contact{
     text-align: center;
-    /* height: 150rem; */
+    margin-top: 10rem;
     
 }
 
 .contact .btn-pr{
-    margin: 20rem;
-    padding: 1rem;
+    /* margin: 20rem; */
+    padding: .5rem 2rem;
 
 }
 
@@ -38,4 +38,5 @@ textarea{
     width: 2.5rem;
     height: 2.5rem;
     margin: .4rem;
+    /* background-color: aqua; */
 }

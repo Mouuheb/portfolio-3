@@ -23,7 +23,10 @@ const About = () => {
                 </div>
 
                 <div className='img-containner' >
-                    <img src={data.img2}/>
+                    <div className='bg-img'>
+                      <img src={data.img2}/>
+                    </div>
+                    
                 </div>
                 
         
